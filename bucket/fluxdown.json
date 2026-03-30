@@ -13,14 +13,14 @@
         },
         "arm64": {
             "url": "https://fluxdown.zerx.dev/api/download/FluxDown-0.1.36-windows-arm64-portable.zip",
-            "hash": "32b611da9af6da0156dfda0ad0bce12a145f376055eba9fd7f05e8e0474a0e50"
+            "hash": "32b611da9af6da0156dfda0ad0bce12a145f37605eba9fd7f05e8e0474a0e50"
         }
     },
     "extract_dir": ".",
-    "bin": "FluxDown.exe",
+    "bin": "flux_down.exe",
     "shortcuts": [
         [
-            "FluxDown.exe",
+            "flux_down.exe",
             "FluxDown"
         ]
     ],
